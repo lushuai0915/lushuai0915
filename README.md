@@ -103,7 +103,7 @@
 
 ### 👁 Visit traffic in the past 30 days
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WLWYJH&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lushuai&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- GitHub streak（GitHub 连续打卡） -->
