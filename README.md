@@ -37,9 +37,10 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;"> 
   <!-- 代码提交数量 -->
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=WLWYJH&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
+  <!-- <img height="200px" src="https://github-readme-stats.vercel.app/api?username=WLWYJH&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />  -->
   <!-- 代码语言 -->
-   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcy960815&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
+   <!-- <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcy960815&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+   -->
 </div>
 
 
